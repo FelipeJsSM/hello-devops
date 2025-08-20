@@ -104,6 +104,7 @@ application:
 6. On the next push to `main`, GitHub Actions will trigger a new deploy
    on Render and the service will update.
 
+
 ## License
 
 This project is provided for educational purposes and does not include
