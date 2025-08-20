@@ -109,3 +109,4 @@ application:
 
 This project is provided for educational purposes and does not include
 any license. Feel free to adapt and extend it as needed.
+
